@@ -65,6 +65,7 @@
 - [MadMapper](http://www.madmapper.com/) [Mac]
 - [Mitti](http://imimot.com/mitti/) [Mac]
 - [TouchViZ](https://hexler.net/software/touchviz) [iOS]
+- [Veejay](https://github.com/c0ntrol/veejay) [Linux]
 
 ### Codecs
 
